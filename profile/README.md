@@ -4,7 +4,7 @@ Smart Dashboard is a web application that allows you to check water consumption 
 
 <br/>
 
-## **Repo are still private (under development) will set to public when applications ready to use**
+## **Repo's are still private (under development) will set to public when applications ready to use**
 <br/>
 
 ## **About Frontend**
