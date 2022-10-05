@@ -7,6 +7,24 @@ Smart Dashboard is a web application that allows you to check water consumption 
 ## **Repo are still private (under development) will set to public when applications ready to use**
 <br/>
 
+## **About Frontend**
+
+The Smart Dashboard Frontend is the result of translating the design from the UI/UX Designer and shows the data fetched from the Smart Dashboard Backend API. This dashboard is built with the JavaScript Framework namely [ReactJS](https://reactjs.org/docs/getting-started.html) and the CSS Framework namely [TailwindCSS](https://tailwindcss.com/docs/installation).
+
+<br/>
+
+## **About Mobile App**
+
+The Smart Dashboard Frontend is the result of translating the design from the UI/UX Designer and shows the data fetched from the Smart Dashboard Backend API. This mobile application is built with the [Flutter SDK](https://docs.flutter.dev/get-started/install).
+
+<br/>
+
+## **About Backend**
+
+Smart Dashboard Backend is a service that provides API for Smart Dashboard Frontend and Mobile App. It is built with [Go](https://go.dev/) and Using [Fiber](https://gofiber.io/) Framework. Backend Services communicate with IoT device using [Antares IoT Platform](https://antares.id/). It also communicate with Database using [GORM](https://gorm.io/) ORM. The Database used is [PostgreSQL](https://www.postgresql.org/).
+
+<br/>
+
 ## **Repository Structure**
 
 The repository is structured as follows:
